@@ -48,3 +48,7 @@ A  visually appealing **Usability Hub landing page clone**, built using **HTML5*
 # 🤝 Contributing
 Feel free to fork this repository and make improvements. Pull requests are welcome! 🚀
 
+# LICENSE 
+[MIT Licence](LICENSE)
+
+
